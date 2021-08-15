@@ -3,7 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/disciplina-padraoes-de-projeto.iml" filepath="$PROJECT_DIR$/.idea/disciplina-padraoes-de-projeto.iml" />
-      <module fileurl="file://$PROJECT_DIR$/padroes-de-projeto/padroes-de-projeto.iml" filepath="$PROJECT_DIR$/padroes-de-projeto/padroes-de-projeto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/solid/solid.iml" filepath="$PROJECT_DIR$/solid/solid.iml" />
     </modules>
   </component>
 </project>
